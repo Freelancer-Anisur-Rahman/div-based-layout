@@ -1,0 +1,310 @@
+* {
+    margin: 0;
+    padding: 0;
+    background: aqua;
+}
+
+.one {
+    width: 400px;
+    height: 400px;
+    background: rgb(255 255 25);
+    margin: 50px auto;
+}
+
+.a1 {
+    width: 400px;
+    height: 200px;
+    background: rgb(25 255 25)
+}
+
+.a3 {
+    width: 200px;
+    height: 200px;
+    background: rgb(241, 180, 12);
+    float: left;
+}
+
+.a7 {
+    width: 40px;
+    height: 200px;
+    background: rgb(10, 233, 10);
+    float: left;
+}
+
+.a8 {
+    width: 40px;
+    height: 200px;
+    background: rgb(211, 233, 10);
+    float: left;
+}
+
+.a17 {
+    width: 40px;
+    height: 25px;
+    background: rgb(0, 60, 255);
+}
+
+.a18 {
+    width: 40px;
+    height: 25px;
+    background: rgb(6, 253, 138);
+}
+
+.a19 {
+    width: 40px;
+    height: 25px;
+    background: rgb(255, 0, 242);
+}
+
+.a20 {
+    width: 40px;
+    height: 25px;
+    background: rgb(245, 21, 21);
+}
+
+.a21 {
+    width: 40px;
+    height: 25px;
+    background: rgb(52, 255, 194);
+}
+
+.a22 {
+    width: 40px;
+    height: 25px;
+    background: rgb(136, 142, 163);
+}
+
+.a23 {
+    width: 40px;
+    height: 25px;
+    background: rgb(146, 142, 81);
+}
+
+.a24 {
+    width: 40px;
+    height: 25px;
+    background: rgb(0, 60, 255);
+}
+
+.a9 {
+    width: 40px;
+    height: 200px;
+    background: rgb(232, 247, 22);
+    float: left;
+}
+
+.a10 {
+    width: 40px;
+    height: 200px;
+    background: rgb(219, 184, 25);
+    float: left;
+}
+
+.a25 {
+    width: 40px;
+    height: 100px;
+    background: rgb(219, 184, 25);
+}
+
+.a26 {
+    width: 40px;
+    height: 100px;
+    background: rgb(112, 219, 25);
+}
+
+.a11 {
+    width: 40px;
+    height: 200px;
+    background: rgb(34, 155, 236);
+    float: left;
+}
+
+.a38 {
+    width: 40px;
+    height: 50px;
+    background: rgb(228, 250, 33);
+}
+
+.a39 {
+    width: 40px;
+    height: 50px;
+    background: rgb(42, 227, 240);
+}
+
+.a40 {
+    width: 40px;
+    height: 100px;
+    background: rgb(207, 65, 65);
+}
+
+.a4 {
+    width: 200px;
+    height: 200px;
+    background: rgb(12, 241, 88);
+    float: left;
+}
+
+.a12 {
+    width: 200px;
+    height: 40px;
+    background: rgb(0, 0, 255)
+}
+
+.a44 {
+    width: 100px;
+    height: 40px;
+    background: rgb(212, 226, 11);
+    float: left;
+}
+
+.a45 {
+    width: 100px;
+    height: 40px;
+    background: rgb(250, 122, 48);
+    float: left;
+}
+
+.a13 {
+    width: 200px;
+    height: 40px;
+    background: rgb(219, 12, 185)
+}
+
+.a14 {
+    width: 200px;
+    height: 40px;
+    background: rgb(123, 221, 31)
+}
+
+.a41 {
+    width: 50px;
+    height: 40px;
+    background: rgb(210, 180, 140);
+    float: left;
+}
+
+.a42 {
+    width: 100px;
+    height: 40px;
+    background: rgb(31, 19, 204);
+    float: left;
+}
+
+.a43 {
+    width: 50px;
+    height: 40px;
+    background: rgb(210, 180, 140);
+    float: left;
+}
+
+.a15 {
+    width: 200px;
+    height: 40px;
+    background: rgb(218, 18, 218)
+}
+
+.a16 {
+    width: 200px;
+    height: 40px;
+    background: rgb(0, 0, 255)
+}
+
+.a2 {
+    width: 400px;
+    height: 200px;
+    background: rgb(221, 183, 11)
+}
+
+.a5 {
+    width: 200px;
+    height: 200px;
+    background: rgb(235, 25, 140);
+    float: left;
+}
+
+.a27 {
+    width: 100px;
+    height: 200px;
+    background: rgba(235, 84, 25, 0.452);
+    float: left;
+}
+
+.a29 {
+    width: 100px;
+    height: 100px;
+    background: rgba(235, 84, 25, 0.452);
+}
+
+.a30 {
+    width: 100px;
+    height: 100px;
+    background: rgba(168, 221, 22, 0.89);
+}
+
+.a28 {
+    width: 100px;
+    height: 200px;
+    background: rgba(82, 226, 25, 0.705);
+    float: left;
+}
+
+.a31 {
+    width: 100px;
+    height: 100px;
+    background: rgba(53, 231, 9, 0.452);
+}
+
+.a32 {
+    width: 100px;
+    height: 100px;
+    background: rgba(162, 18, 245, 0.89);
+}
+
+.a6 {
+    width: 200px;
+    height: 200px;
+    background: rgb(69, 6, 216);
+    float: left;
+}
+
+.a6 {
+    width: 200px;
+    height: 200px;
+    background: rgb(65, 216, 19);
+    float: left;
+}
+
+.a33 {
+    width: 40px;
+    height: 200px;
+    background: rgb(238, 174, 77);
+    float: left;
+}
+
+.a34 {
+    width: 40px;
+    height: 200px;
+    background: rgb(45, 175, 226);
+    float: left;
+}
+
+.a35 {
+    width: 40px;
+    height: 200px;
+    background: rgb(223, 45, 45);
+    float: left;
+}
+
+.a36 {
+    width: 40px;
+    height: 200px;
+    background: rgb(69, 6, 216);
+    float: left;
+}
+
+.a37 {
+    width: 40px;
+    height: 200px;
+    background: rgb(235, 181, 3);
+    float: left;
+}
